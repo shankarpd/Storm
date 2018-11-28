@@ -1,0 +1,6 @@
+https://docs.microsoft.com/en-us/azure/hdinsight/storm/apache-storm-develop-java-topology
+https://github.com/ADMIcloud/examples
+
+storm jar ..\topology\examples\storm-example\target\storm-example-1.0-jar-with-dependencies.jar shankarpd.storm.wordcount.WordCountTopology WordCount
+
+
